@@ -1,0 +1,14 @@
+2020-04-15 20:51:16,389 - app - ERROR - Processing error request
+2020-04-15 20:51:16,392 - app - CRITICAL - Processing critical request
+2020-04-15 20:51:49,855 - app - ERROR - Processing error request
+2020-04-15 20:51:49,856 - app - CRITICAL - Processing critical request
+2020-04-15 20:52:20,472 - app - ERROR - Processing error request
+2020-04-15 20:52:20,474 - app - CRITICAL - Processing critical request
+2020-04-15 20:52:36,527 - app - ERROR - Processing error request
+2020-04-15 20:52:36,528 - app - CRITICAL - Processing critical request
+2020-04-15 20:56:19,048 - app - ERROR - Processing error request
+2020-04-15 20:56:19,049 - app - CRITICAL - Processing critical request
+2020-04-15 20:56:26,369 - app - ERROR - Processing error request
+2020-04-15 20:56:26,383 - app - CRITICAL - Processing critical request
+2020-04-15 20:56:29,853 - app - ERROR - Processing error request
+2020-04-15 20:56:29,855 - app - CRITICAL - Processing critical request
